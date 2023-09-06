@@ -77,7 +77,7 @@ endmodule
 ```
 ### Output:
 ### RTL:
-C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\1.png
+![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\1.png")
 ### Truth Table:
 ![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\2.png")
 ### Waveform:
