@@ -77,11 +77,11 @@ endmodule
 ```
 ### Output:
 ### RTL:
-![model](1.png)
+![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\1.png")
 ### Truth Table:
-![model](2.png)
+![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\2.png")
 ### Waveform:
-![model](3.png)
+![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\3.png")
 
 ### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
