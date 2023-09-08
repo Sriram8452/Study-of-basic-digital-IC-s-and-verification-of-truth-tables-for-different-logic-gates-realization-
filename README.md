@@ -77,11 +77,14 @@ endmodule
 ```
 ### Output:
 ### RTL:
-![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\1.png")
+![1](https://github.com/Sriram8452/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118708032/1dee2065-74d8-42cd-8246-592f4998ce5a)
+
 ### Truth Table:
-![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\2.png")
+![2](https://github.com/Sriram8452/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118708032/9e41cf93-f11b-45f2-81ae-e52731da5a1a)
+
 ### Waveform:
-![model]("C:\Users\Sriram\OneDrive\Documents\DE\Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-\3.png")
+![3](https://github.com/Sriram8452/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118708032/48f2d6fb-7039-4be5-b4f8-75e376b7c7e2)
+
 
 ### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
